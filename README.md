@@ -1,7 +1,7 @@
 # RainbowMaker
 
 <p align="center">
-<img align="center" src="https://github.com/philvoyer/RainbowMaker/raw/master/rainbow.png" alt="Ça va bien aller !">
+<img src="https://github.com/philvoyer/RainbowMaker/raw/master/rainbow.png" align="center" width=256 height=256 alt="Ça va bien aller !">
 </p>
 
 Un programme qui permet de dessiner un arc-en-ciel.
