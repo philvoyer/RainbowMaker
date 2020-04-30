@@ -1,6 +1,8 @@
 # RainbowMaker
 
+<div align="center">
 ![Ça va bien aller !](https://github.com/philvoyer/RainbowMaker/raw/master/rainbow.png "Ça va bien aller !")
+</div>
 
 Un programme qui permet de dessiner un arc-en-ciel.
 
